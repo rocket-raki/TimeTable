@@ -1,0 +1,47 @@
+
+h1{
+    
+    box-shadow: 0 5px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.2s;
+    border-radius: 5px; 
+    width: fit-content;
+}
+h1:hover{
+    
+    box-shadow: 4px 9px 7px 2px rgba(0,0,0,0.2);
+
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding: 20px;
+    padding-top: 10px;
+    background-color:aliceblue;
+    margin: 10px;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 5px;
+    margin-top: 1px;
+  }
+  .card {
+    box-shadow: 0 5px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.5s;
+    border-radius: 10px; 
+  
+  }
+  
+  img {
+    border-radius: 10px;
+    width: 100%;
+    height: 400px;;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    margin:1px;
+  }  
+  img:hover{
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,0.2);;
+  }
